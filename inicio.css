@@ -1,0 +1,9 @@
+/* universal selector */
+body{background-color: rgb(65, 65, 253);}
+.holo{background-color: #4242f7;
+color: floralwhite;}
+h1:hover {color:red}
+p:hover {color:red}
+h2:hover {color:red}
+.holo:hover {color:red}
+#parte1-2{font-size: 125%;}
